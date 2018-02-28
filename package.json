@@ -33,6 +33,9 @@
         "flow"
     ],
     "dependencies": {
+        "node-red-contrib-modbus": "3.3.3",
+        "node-red-contrib-web-watch": "0.0.5",
+        "node-red-contrib-dynamorse-file-io": "0.1.11",
         "basic-auth": "2.0.0",
         "bcryptjs": "2.4.3",
         "body-parser": "1.18.2",
